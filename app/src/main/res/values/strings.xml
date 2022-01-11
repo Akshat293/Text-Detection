@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextDetection</string>
+    <string name="welcome_to_zeno_scanner">Welcome to Zeno Scanner</string>
+</resources>
